@@ -6,7 +6,7 @@
 
 <h2>Few Facts about me :</h2>
 
-- 💻 I’m currently learning Flutter
+- 💻 I’m currently learning flutter
 - 👯 Always open to collaborate on an interesting project 
 - 😻 I’m a cat lover
 - 📔 I love reading existentialist literature
@@ -38,11 +38,18 @@
 
 [<img align="left" alt="gmail"  height="25px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:dishasingh5422@gmail.com)
 [<img align="left" alt="linkedin"  height="25px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/dishasingh5422/)
+[<img align="left" alt="linkedin"  height="25px" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"/>](htttps://discord.gg/https://discord.com/channels/@me)
 
 
+
 <br/>
 <br/>
 <br/>
+
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=dishasingh5422&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dishasingh5422&theme=nightowl&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dishasingh5422&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <p align="center">Made with ❤️ by Disha</p>
 
